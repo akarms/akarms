@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
+## Dedicated Software Engineering Student Exploring Innovative Technologies and Crafting Meaningful Digital Solutions.
 🔭 I’m currently working on Pharma Connect<br>
 
 
